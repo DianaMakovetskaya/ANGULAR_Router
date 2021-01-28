@@ -1,0 +1,9 @@
+.Wrapper{
+  display: flex;
+}
+.AllPosts{
+  width: 800px;
+}
+.OnePost{
+  width: 500px;
+}

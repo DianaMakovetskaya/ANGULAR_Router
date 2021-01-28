@@ -1,0 +1,9 @@
+.AllUsers{
+  width: 800px;
+}
+.Wrapper{
+  display: flex;
+}
+.OneUser{
+  width: 500px;
+}
